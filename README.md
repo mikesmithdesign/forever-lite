@@ -33,4 +33,4 @@ The full Forever theme adds the things this one can't do:
 - A scroll-driven image crossfade through the order of the day
 - Five-file JSON editing, no HTML required
 
-https://mikesmithdesign.gumroad.com/l/forever-astro-theme
+→ [Forever, the full Astro theme for weddings](https://mikesmithdesign.co.uk/themes/forever) (£30)
